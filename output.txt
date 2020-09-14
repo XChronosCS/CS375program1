@@ -1,0 +1,8 @@
+Size of Input for this problem: 2
+Maximum Profit: 2750
+Number of cards needed for this profit: 2
+Time to calculate: 0 Seconds.
+Size of Input for this problem: 3
+Maximum Profit: 1100
+Number of cards needed for this profit: 2
+Time to calculate: 0 Seconds.
